@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "rmsBMA"]
 	path = rmsBMA
-	url = https://github.com/cran/rmsBMA
+	url = https://github.com/becku182/rmsbma
